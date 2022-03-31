@@ -7647,7 +7647,7 @@
     "popper.js" "^1.14.1"
     "prop-types" "^15.6.1"
 
-"react-redux-form@1.16.8":
+"react-redux-form@^1.16.8":
   "integrity" "sha512-qx+3IP+uOsj7rPWKsRH4W8r+TXb4ohfEl/s083X9sbtDA75tyscGmglxkdFSrM/L32l4z139U4aW3avUtx5QFg=="
   "resolved" "https://registry.npmjs.org/react-redux-form/-/react-redux-form-1.16.8.tgz"
   "version" "1.16.8"
