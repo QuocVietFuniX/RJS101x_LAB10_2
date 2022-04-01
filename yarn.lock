@@ -2386,13 +2386,13 @@
     "safe-buffer" "^5.0.1"
     "sha.js" "^2.4.8"
 
-"cross-fetch@2.1.0":
-  "integrity" "sha512-FTIt2WK44RiafWQ62xIvd+oBoVd392abh1lF872trLlA74JCR1s4oTHlixwoIKy44ehn8WbQ0Ds2P16sw7ZQxg=="
-  "resolved" "https://registry.npmjs.org/cross-fetch/-/cross-fetch-2.1.0.tgz"
-  "version" "2.1.0"
+"cross-fetch@^2.2.5":
+  "integrity" "sha512-xqYAhQb4NhCJSRym03dwxpP1bYXpK3y7UN83Bo2WFi3x1Zmzn0SL/6xGoPr+gpt4WmNrgCCX3HPysvOwFOW36w=="
+  "resolved" "https://registry.npmjs.org/cross-fetch/-/cross-fetch-2.2.5.tgz"
+  "version" "2.2.5"
   dependencies:
-    "node-fetch" "2.1.1"
-    "whatwg-fetch" "2.0.3"
+    "node-fetch" "2.6.1"
+    "whatwg-fetch" "2.0.4"
 
 "cross-spawn@^5.0.1", "cross-spawn@^5.1.0", "cross-spawn@5.1.0":
   "integrity" "sha1-6L0O/uWPz/b4+UUQoKVUu/ojVEk="
@@ -6295,10 +6295,10 @@
     "encoding" "^0.1.11"
     "is-stream" "^1.0.1"
 
-"node-fetch@2.1.1":
-  "integrity" "sha1-NpynC4L1DIZJYQSmx3bSdPTkotQ="
-  "resolved" "https://registry.npmjs.org/node-fetch/-/node-fetch-2.1.1.tgz"
-  "version" "2.1.1"
+"node-fetch@2.6.1":
+  "integrity" "sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw=="
+  "resolved" "https://registry.npmjs.org/node-fetch/-/node-fetch-2.6.1.tgz"
+  "version" "2.6.1"
 
 "node-forge@^0.10.0":
   "integrity" "sha512-PPmu8eEeG9saEUvI97fm4OYxXVB6bFvyNTyiUOBichBpFG8A1Ljw3bY62+5oOjDEMHRnd0Y7HQ+x7uzxOzC6JA=="
@@ -9700,6 +9700,11 @@
   "integrity" "sha1-nITsLc9oGH/wC8ZOEnS0QhduHIQ="
   "resolved" "https://registry.npmjs.org/whatwg-fetch/-/whatwg-fetch-2.0.3.tgz"
   "version" "2.0.3"
+
+"whatwg-fetch@2.0.4":
+  "integrity" "sha512-dcQ1GWpOD/eEQ97k66aiEVpNnapVj90/+R+SXTPYGHpYBBypfKJEQjLrvMZ7YXbKm21gXd4NcuxUTjiv1YtLng=="
+  "resolved" "https://registry.npmjs.org/whatwg-fetch/-/whatwg-fetch-2.0.4.tgz"
+  "version" "2.0.4"
 
 "whatwg-url@^4.3.0":
   "integrity" "sha1-0pgaqRSMHgCkHFphMRZqtGg7vMA="

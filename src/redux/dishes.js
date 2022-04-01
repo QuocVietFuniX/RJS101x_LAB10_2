@@ -1,13 +1,12 @@
 import * as ActionTypes from "./ActionTypes";
 
+
 export const Dishes = (
   state = {
     isLoading: true,
     errMess: null,
     dishes: []
-  },
-  action
-) => {
+  }, action ) => {
   switch (action.type) {
     case ActionTypes.ADD_DISHES:
       return {

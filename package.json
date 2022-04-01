@@ -7,7 +7,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
     "bootstrap": "^4.0.0",
     "bootstrap-social": "5.1.1",
-    "cross-fetch": "2.1.0",
+    "cross-fetch": "^2.2.5",
     "css-loader": "^1.0.0",
     "dateformat": "^4.5.1",
     "font-awesome": "4.7.0",
